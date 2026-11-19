@@ -44,7 +44,7 @@ st.caption("Record your voice → Whisper transcribes → Intent classified → 
 
 @st.cache_resource(show_spinner="Loading Whisper model…")
 def load_whisper():
-    return whisper.load_model("base")
+    return whisper.load_model("tiny")
 
 
 @st.cache_resource(show_spinner="Training intent classifier…")
