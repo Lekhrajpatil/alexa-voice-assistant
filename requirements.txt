@@ -1,0 +1,8 @@
+streamlit
+openai-whisper
+gtts
+scipy
+scikit-learn
+pandas
+numpy
+torch

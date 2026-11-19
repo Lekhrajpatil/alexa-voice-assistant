@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.pth
+*.pt
+.env
+.streamlit/
+*.wav
+*.mp3
+lekhraj_alexa/
+.cache/
